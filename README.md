@@ -8,3 +8,9 @@ The traffic counting system in this project was developed using Python programmi
 1. Detect and classify the vehicles from the inputted video.
 2. Tracking the movement of the vehicles.
 3. Count the vehicles that passed through the determined line.
+
+## Dependencies
+- Python 3.10
+- numpy 1.22
+- opencv-contrib-python 4.5.5
+- tkinter
